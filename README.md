@@ -1,11 +1,18 @@
 ## :chart_with_upwards_trend: GitHub Stats
 
 <a href="https://github.com/kwebdev225/kwebdev225">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwebdev225&layout=compact&langs_count=4&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="SnowFox's GitHub Stats" height="180px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwebdev225&layout=compact&langs_count=4&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="SnowFox's GitHub Stats" height="180px"/>
 </a>
 
 <a href="https://github.com/kwebdev225/kwebdev225">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwebdev225&show_icons=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="SnowFox's GitHub Stats" height="180px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kwebdev225&show_icons=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="SnowFox's GitHub Stats" height="180px"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 ## :wrench: Skills and Tools
