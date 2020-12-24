@@ -33,3 +33,9 @@
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=mac&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PHPStorm_IDEA-informational?style=flat&logo=phpstorm-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm_IDEA-informational?style=flat&logo=pycharm-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
