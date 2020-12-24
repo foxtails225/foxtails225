@@ -9,4 +9,5 @@
 </a>
 
 ## :wrench: Skills and Tools
-![](https://img.shields.io/badge/Language-TypeScript_!S-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-TypeScript_!S-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-JavaScript_!S-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
