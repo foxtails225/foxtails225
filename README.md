@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Framework-Node_-informational?style=flat&logo=node.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Next_-informational?style=flat&logo=next.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Nuxt_-informational?style=flat&logo=nuxt.js&logoColor=white&color=3bac3a)
+
 ![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Django_-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Flask_-informational?style=flat&logo=flask&logoColor=white&color=3bac3a)
