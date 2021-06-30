@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=Rubyonrails&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Node_-informational?style=flat&logo=node.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Next_-informational?style=flat&logo=next.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Nuxt_-informational?style=flat&logo=nuxt.js&logoColor=white&color=3bac3a)
