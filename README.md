@@ -1,5 +1,4 @@
 ## :chart_with_upwards_trend: GitHub Stats
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <a href="https://github.com/kwebdev225/kwebdev225">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwebdev225&layout=compact&hide=html&langs_count=5&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height=180 />
