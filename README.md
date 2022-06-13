@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/foxtails225/foxtails225">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=foxtails225&theme=dark&show_icons=true&include_all_commits=true&count_private=true" height=180 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=foxtails225&theme=dark&show_icons=true&count_private=true" height=180 />
 </a>
 
 ## :wrench: Technologies and Tools
