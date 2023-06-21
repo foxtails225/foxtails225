@@ -1,3 +1,5 @@
+![](./header.png)
+
 ## :chart_with_upwards_trend: GitHub Stats
 
 <a href="https://github.com/foxtails225/foxtails225">
