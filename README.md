@@ -3,11 +3,11 @@
 ## :chart_with_upwards_trend: GitHub Stats
 
 <a href="https://github.com/foxtails225/foxtails225">
-  <img align="center" src="https://github-readme-stats-eosin-pi.vercel.app/api/top-langs/?username=foxtails225&theme=default&layout=compact&hide=html&langs_count=10" height=180 />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=foxtails225&theme=default" height="180" alt="Repositories per language" />
 </a>
 
 <a href="https://github.com/foxtails225/foxtails225">
-  <img align="center" src="https://github-readme-stats-eosin-pi.vercel.app/api?username=foxtails225&theme=default&show_icons=true&rank_icon=github&include_all_commits=true" height=180 />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxtails225&theme=default" height="180" alt="GitHub stats" />
 </a>
 
 ## :wrench: Technologies and Tools
