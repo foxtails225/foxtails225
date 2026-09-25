@@ -1,28 +1,35 @@
 # Hi, I'm Foxtails
 
-**Full-stack software engineer · Business applications · API integrations & automation**
+**Full-stack engineer · AI applications · GTM engineering**
 
-I build software that removes manual work from business operations: internal tools, data dashboards, third-party API integrations, and automation that people can understand and maintain.
+I build full-stack products and the automation behind revenue teams: LLM-powered features, lead and account data pipelines, and integrations that connect the tools a business already runs on.
 
-Open to software engineering roles.
+Open to full-stack, AI engineering, and GTM engineering roles.
 
-## Featured work
+## What I do
 
-| Project | What it does | Stack |
+- **Full-stack products:** TypeScript and React frontends, Node.js and Python APIs, SQL and document databases, from first prototype to production.
+- **AI applications:** LLM features on top of model APIs, including structured extraction, classification, summarization, retrieval (RAG) and tool-using agents, with evaluation and guardrails so they behave predictably.
+- **GTM engineering:** lead sourcing and enrichment, email finding and verification, CRM and outreach integrations, scraping, and workflow automation that turns manual prospect research into repeatable pipelines.
+
+## Stack
+
+- **Languages:** TypeScript, JavaScript, Python, PHP, SQL
+- **Frontend:** React, Redux, Vue / Nuxt, Material UI, Tailwind
+- **Backend:** Node.js / Express, Flask, Django, Laravel, REST and GraphQL APIs
+- **Data:** MySQL, MongoDB, pandas, NumPy
+- **AI:** LLM APIs, prompt and tool design, RAG, agents, evals
+- **GTM & automation:** enrichment APIs, CRM integrations, web scraping, Selenium, workflow automation
+
+## Selected work
+
+| Project | Area | What it shows |
 | --- | --- | --- |
-| [Retail business software](https://github.com/foxtails225/Retail_Business_Software_Frontend) | Admin app for a print-on-demand catalog: one-click SKU generation, product variants and pricing for six product lines, trademark screening of listing titles (US/UK/AU), artwork uploads, marketplace settings, and artist performance reports. | React, Redux, Reactstrap, Cloudinary, Chart.js |
-| [Hunter.io Python SDK](https://github.com/foxtails225/simple_api_client_sdk) | Typed Python client for email verification, domain search, and email finding, with response caching and unit tests. | Python, requests, pytest, mypy (strict) |
-| [Statistics dashboard](https://github.com/foxtails225/Data-Statistics-Dashboard) | Analysis dashboard for satellite system data: line, histogram, box, and 2D/3D charts. A Node.js API runs Python (pandas, NumPy, SciPy) jobs for statistics and interpolation. | React, TypeScript, Express, Python |
-| [Scraping & automation](https://github.com/foxtails225/Scraping-Automation) | Data collection and reporting automation: queue-based scraping with Symfony Messenger, GraphQL catalog collection, and Selenium automation of BI reports. | Python, PHP/Symfony, Selenium, Goutte |
-| [Blogging platform](https://github.com/foxtails225/Blogging-Platform-Frontend) | Stock-news blogging app with charts and a [separate REST API](https://github.com/foxtails225/Blogging-Platform-Backend). | React, Redux, TypeScript, Node.js, MongoDB |
+| [Hunter.io Python SDK](https://github.com/foxtails225/simple_api_client_sdk) | GTM | Typed client for email finding, domain search and verification (the building blocks of lead enrichment), with response caching and tests. |
+| [Scraping & automation](https://github.com/foxtails225/Scraping-Automation) | GTM / data | Queue-based profile scraping, GraphQL data collection, and browser automation for reporting tools that have no API. |
+| [Retail business software](https://github.com/foxtails225/Retail_Business_Software_Frontend) | Full-stack | Admin app for a print-on-demand catalog: one-click SKUs, variant pricing, trademark screening, and Shopify/Etsy listing data. |
+| [Statistics dashboard](https://github.com/foxtails225/Data-Statistics-Dashboard) | Full-stack / data | React + Express app that runs Python (pandas, NumPy, SciPy) analysis jobs and charts the results. |
 
-## Skills
+## Current focus
 
-- **Frontend:** React, TypeScript, JavaScript, Vue.js / Nuxt, Redux, Material UI, Tailwind
-- **Backend:** Node.js / Express, Python (Flask, Django), PHP (Laravel, Symfony), REST APIs
-- **Data:** pandas, NumPy, SQL (MySQL), MongoDB, Plotly.js, Chart.js
-- **Integrations & automation:** third-party APIs, web scraping, Selenium, SharePoint (SPFx), Microsoft Graph
-
-## Current interests
-
-Applying LLMs to real business workflows: data enrichment, lead research, and automation for sales and operations teams.
+LLM-driven GTM workflows: account research, lead enrichment and qualification, and personalized outreach, built on solid API integrations and data pipelines.
