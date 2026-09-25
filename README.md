@@ -1,49 +1,34 @@
-![](./header.png)
+<p align="center">
+  <img src="assets/foxtails-avatar.png" width="160" alt="A friendly orange fox — Foxtails" />
+</p>
 
-## :chart_with_upwards_trend: GitHub Stats
+# Hi, I'm Foxtails
 
-<a href="https://github.com/foxtails225/foxtails225">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=foxtails225&theme=default" height="180" alt="Repositories per language" />
-</a>
+**Product-focused software engineering · Business applications · Integrations & automation**
 
-<a href="https://github.com/foxtails225/foxtails225">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxtails225&theme=default" height="180" alt="GitHub stats" />
-</a>
+I like turning practical problems into useful software: tools that organize information, connect systems, and make everyday work easier.
 
-## :wrench: Technologies and Tools
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
+My public projects cover web applications, business dashboards, API integrations, and workflow automation. My current interests include AI-powered products and GTM automation, building on that foundation.
 
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=Rubyonrails&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Node_-informational?style=flat&logo=node.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Next_-informational?style=flat&logo=next.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Nuxt_-informational?style=flat&logo=nuxt.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Django_-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Flask_-informational?style=flat&logo=flask&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Laravel_-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
+## Selected projects
 
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
+| Project | What to explore |
+| --- | --- |
+| [Hunter API client](https://github.com/foxtails225/simple_api_client_sdk) | A Python integration for email discovery and verification, with response storage and tests. |
+| [Retail business software](https://github.com/foxtails225/Retail_Business_Software_Frontend) | A React frontend for product, stock, and marketplace management. |
+| [Scraping & automation](https://github.com/foxtails225/Scraping-Automation) | Data collection and workflow examples, including Gmail, Google Sheets, and reporting automation. |
+| [SharePoint Gantt charts](https://github.com/foxtails225/SPFx-Gantt-Chart) | Timeline visualization for SharePoint Online using SPFx and Plotly.js. |
+| [Data statistics dashboard](https://github.com/foxtails225/Data-Statistics-Dashboard) | A dashboard connecting Node.js and Python data processing with statistical charts. |
+| [Blogging platform](https://github.com/foxtails225/Blogging-Platform-Frontend) | A stock-news blogging application with a [separate backend](https://github.com/foxtails225/Blogging-Platform-Backend). |
 
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
+## Technical foundation
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Editor-PHPStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=3bac3a)
+- **Web products:** JavaScript, TypeScript, React, Vue.js, and Node.js.
+- **Backend & data:** Python, PHP/Laravel, APIs, and data processing.
+- **Business tools:** dashboards, SharePoint integrations, scraping, and workflow automation.
+
+## Current direction
+
+I'm interested in connecting product engineering with AI and business workflows: useful integrations, clear user experiences, and automation that can be understood and maintained.
+
+The repositories above show my existing public work. AI/GTM is a direction I'm developing, rather than a claim that these older projects already implement modern agent systems.
