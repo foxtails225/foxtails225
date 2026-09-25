@@ -1,30 +1,28 @@
 # Hi, I'm Foxtails
 
-**Product-focused software engineering · Business applications · Integrations & automation**
+**Full-stack software engineer · Business applications · API integrations & automation**
 
-I like turning practical problems into useful software: tools that organize information, connect systems, and make everyday work easier.
+I build software that removes manual work from business operations: internal tools, data dashboards, third-party API integrations, and automation that people can understand and maintain.
 
-My public projects cover web applications, business dashboards, API integrations, and workflow automation. My current interests include AI-powered products and GTM automation, building on that foundation.
+Open to software engineering roles.
 
-## Selected projects
+## Featured work
 
-| Project | What to explore |
-| --- | --- |
-| [Hunter API client](https://github.com/foxtails225/simple_api_client_sdk) | A Python integration for email discovery and verification, with response storage and tests. |
-| [Retail business software](https://github.com/foxtails225/Retail_Business_Software_Frontend) | A React frontend for product, stock, and marketplace management. |
-| [Scraping & automation](https://github.com/foxtails225/Scraping-Automation) | Data collection and workflow examples, including Gmail, Google Sheets, and reporting automation. |
-| [SharePoint Gantt charts](https://github.com/foxtails225/SPFx-Gantt-Chart) | Timeline visualization for SharePoint Online using SPFx and Plotly.js. |
-| [Data statistics dashboard](https://github.com/foxtails225/Data-Statistics-Dashboard) | A dashboard connecting Node.js and Python data processing with statistical charts. |
-| [Blogging platform](https://github.com/foxtails225/Blogging-Platform-Frontend) | A stock-news blogging application with a [separate backend](https://github.com/foxtails225/Blogging-Platform-Backend). |
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Retail business software](https://github.com/foxtails225/Retail_Business_Software_Frontend) | Admin app for a print-on-demand catalog: one-click SKU generation, product variants and pricing for six product lines, trademark screening of listing titles (US/UK/AU), artwork uploads, marketplace settings, and artist performance reports. | React, Redux, Reactstrap, Cloudinary, Chart.js |
+| [Hunter.io Python SDK](https://github.com/foxtails225/simple_api_client_sdk) | Typed Python client for email verification, domain search, and email finding, with response caching and unit tests. | Python, requests, pytest, mypy (strict) |
+| [Statistics dashboard](https://github.com/foxtails225/Data-Statistics-Dashboard) | Analysis dashboard for satellite system data: line, histogram, box, and 2D/3D charts. A Node.js API runs Python (pandas, NumPy, SciPy) jobs for statistics and interpolation. | React, TypeScript, Express, Python |
+| [Scraping & automation](https://github.com/foxtails225/Scraping-Automation) | Data collection and reporting automation: queue-based scraping with Symfony Messenger, GraphQL catalog collection, and Selenium automation of BI reports. | Python, PHP/Symfony, Selenium, Goutte |
+| [Blogging platform](https://github.com/foxtails225/Blogging-Platform-Frontend) | Stock-news blogging app with charts and a [separate REST API](https://github.com/foxtails225/Blogging-Platform-Backend). | React, Redux, TypeScript, Node.js, MongoDB |
 
-## Technical foundation
+## Skills
 
-- **Web products:** JavaScript, TypeScript, React, Vue.js, and Node.js.
-- **Backend & data:** Python, PHP/Laravel, APIs, and data processing.
-- **Business tools:** dashboards, SharePoint integrations, scraping, and workflow automation.
+- **Frontend:** React, TypeScript, JavaScript, Vue.js / Nuxt, Redux, Material UI, Tailwind
+- **Backend:** Node.js / Express, Python (Flask, Django), PHP (Laravel, Symfony), REST APIs
+- **Data:** pandas, NumPy, SQL (MySQL), MongoDB, Plotly.js, Chart.js
+- **Integrations & automation:** third-party APIs, web scraping, Selenium, SharePoint (SPFx), Microsoft Graph
 
-## Current direction
+## Current interests
 
-I'm interested in connecting product engineering with AI and business workflows: useful integrations, clear user experiences, and automation that can be understood and maintained.
-
-The repositories above show my existing public work. AI/GTM is a direction I'm developing, rather than a claim that these older projects already implement modern agent systems.
+Applying LLMs to real business workflows: data enrichment, lead research, and automation for sales and operations teams.
