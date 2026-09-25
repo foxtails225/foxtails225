@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/foxtails-avatar.png" width="160" alt="A friendly orange fox — Foxtails" />
-</p>
-
 # Hi, I'm Foxtails
 
 **Product-focused software engineering · Business applications · Integrations & automation**
